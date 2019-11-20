@@ -61,7 +61,7 @@ html {
 @media print {
 
   .inset-img {
-    border-color: #000;
+    border-color: #fff;
   }
 
 }
